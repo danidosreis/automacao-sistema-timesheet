@@ -1,3 +1,8 @@
+#!/usr/bin/env python3
+#
+# Autor: Danielle dos Reis
+# Version: v1
+
 from mysql import primeira_query_reset, segunda_query_reset, update_mysql_reset_tblsenha, update_mysql_reset_tblcredeciais
 from sendmail import send_email
 
